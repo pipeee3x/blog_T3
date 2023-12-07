@@ -1,0 +1,61 @@
+.Spain {
+  
+  background-color: red;
+  color: gold;
+  text-align: center;
+  border-radius: 70px 40px;
+  padding: 15px 0;
+}
+
+.japan {
+  background-color: white;
+  color: red;
+  text-align: center;
+  border-radius: 70px 40px;
+  padding: 15px 0;
+}
+
+.columbia {
+  background-color: gold;
+  color: blue;
+  text-align: center;
+  border-radius: 70px 40px;
+  padding: 15px 0;
+}
+
+.canadeichon {
+  background-color: white;
+  color: red;
+  text-align: center;
+  border-radius: 70px 40px;
+  padding: 15px 0;
+}
+
+.ubi{
+  width: 50vw;
+  height: 50vh;
+ border-radius: 10px;
+}
+.ubication{
+  text-align: center;
+}
+
+.ubicationtitle{
+  text-align: left;
+}
+
+h3, h4, p, summary{
+  padding-left: 0.85rem;
+  flex-wrap: wrap;
+  padding-right: 1rem;
+ 
+}
+h2{
+  padding: auto ;
+  margin: auto;
+}
+
+section{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
